@@ -1,0 +1,54 @@
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.Form1.resources
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\Thais2\Downloads\Nova-pasta\Nova pasta\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
+C:\Users\seeduc.NAVE0\Desktop\Nova pasta NEW\adaaaaaa\adaaaaaa\obj\Debug\Calc.Form1.resources
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\Calc.Form1.resources
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\adaaaaaa\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\Calc.Form1.resources
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\daniel.cavalli\Downloads\Nova pasta NEW2\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\Calc.Form1.resources
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\luis.silva\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe.config
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.exe
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.pdb
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.exe
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\bin\Debug\adaaaaaa.pdb
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csprojResolveAssemblyReference.cache
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\Calc.Form1.resources
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\adaaaaaa.Properties.Resources.resources
+C:\Users\Thais2\Desktop\DanielCavalliThaisDias_Calculadora_2003\adaaaaaa\obj\Debug\DanielCThais_Calc_2003.csproj.GenerateResource.Cache
